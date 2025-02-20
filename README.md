@@ -3,12 +3,12 @@ This relay switch daughterboard is a redesigned version of an older component fr
 
 # PCB layout:
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/0c51aa82291a43e5eede5002634d683db482f166/RelaySwitchCompact-PCB%20layout.png)
+![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/relay_switch_pcb_layout.png)
 
 # 3D render-front:
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/7c3dadd911009b2ff3fec75c819fba90925cd3cb/RelaySwitchCompact-3DRenderingFront.png)
+![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/3D_view_top.png)
 
 # 3D render-back:
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/42b325d0f543cd925798118ba6c1ef85cdf8235e/RelaySwitchCompact-3DRenderingBack.png)
+![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/3D_view_bottom.png)
