@@ -1,14 +1,23 @@
-# Relay-Switch-for-Launch-Controller
-This relay switch daughterboard is a redesigned version of an older component from a rocket launch controller circuit. The updated design is now detachable and features LED displays to indicate the reception of a high input signal and a 5V signal. To optimize space and reduce manufacturing costs, components are mounted on both the front and back of the board.
+# **Relay Switch Board**
 
-# PCB layout:
+## **Overview**
+This is a small relay daughterboard for a rocket launch controller. It lets a low-current 5 V GPIO signal safely switch a fused 5 V power line through an opto-isolated relay, while providing clear power and status indication.
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/relay_switch_pcb_layout.png)
+---
 
-# 3D render-front:
+## **How It Works**
+- **GPIO → Optocoupler**: The GPIO pin drives an optocoupler, isolating the controller from the relay coil circuit.
+- **Optocoupler → Transistor**: The optocoupler output drives a transistor that switches current through the relay coil.
+- **Protection**: A flyback diode protects the transistor from coil transients.
+- **Relay Path**: When energized, the relay connects **RelayIn** to **RelayOut** through a fuse.
+- **Indicators**: On-board LEDs show when 5 V is present and when the relay/GPIO is active.
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/3D_view_top.png)
+---
 
-# 3D render-back:
+## Schematic
 
-![image alt](https://github.com/OWongit/Relay-Switch-for-Launch-Controller/blob/48611b7d00b73313beacb5204f3592f94ea1c2bf/3D_view_bottom.png)
+![Schematic](Images/Schematic.png)
+
+## PCB Layout
+
+![PCB Layout](Images/Layout.png)

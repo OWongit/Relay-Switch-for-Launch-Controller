@@ -1150,286 +1150,6 @@
 				)
 			)
 		)
-		(symbol "CRCW060310K0DHEAP:CRCW060310K0DHEAP"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at -7.6244 2.5415 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "CRCW060310K0DHEAP"
-				(at -7.63 -5.0866 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CRCW060310K0DHEAP:RESC1508X50N"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Vishay Dale"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "\n                        \n                            10 kOhms ±0.5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film\n                        \n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "1508 Vishay"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/CRCW060310K0DHEAP/Vishay+Dale/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "CRCW060310K0DHEAP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/CRCW060310K0DHEAP/Vishay+Dale/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "CRCW060310K0DHEAP_0_0"
-				(polyline
-					(pts
-						(xy -5.08 0) (xy -4.445 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 1.905) (xy -3.175 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.175 -1.905) (xy -1.905 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 1.905) (xy -0.635 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 1.905 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -1.905) (xy 3.175 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 1.905) (xy 4.445 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 -1.905) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Connector:Conn_01x05_Pin"
 			(pin_names
 				(offset 1.016) hide)
@@ -1704,6 +1424,139 @@
 						)
 					)
 					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:Fuse"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "F"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fuse"
+				(at -1.905 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Fuse*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fuse_0_1"
+				(rectangle
+					(start -0.762 -2.54)
+					(end 0.762 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Fuse_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2789,6 +2642,108 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "RC0603FR-07330RL:RC0603FR-07330RL"
 			(pin_names
 				(offset 1.016)
@@ -3738,6 +3693,222 @@
 				)
 			)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 	)
 	(junction
 		(at 107.95 30.48)
@@ -3746,16 +3917,10 @@
 		(uuid "117c6faf-74bc-46ce-9eae-fabd5d63b20b")
 	)
 	(junction
-		(at 40.64 81.28)
+		(at 38.1 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3b82928c-fb00-44a5-a6e1-237c96a5dfc4")
-	)
-	(junction
-		(at 40.64 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4ccf748d-138d-4a09-9d8b-81e2ffe6f47b")
+		(uuid "1a36c80a-6023-43e7-972e-c30b044c6cc9")
 	)
 	(junction
 		(at 73.66 25.4)
@@ -3801,13 +3966,23 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 44.45) (xy 40.64 44.45)
+			(xy 38.1 44.45) (xy 53.34 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "179dde2f-ec42-495f-b9a8-765abf81b2c4")
+	)
+	(wire
+		(pts
+			(xy 139.7 80.01) (xy 137.16 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2799e972-56f8-4550-9b0c-e1f904d49d67")
 	)
 	(wire
 		(pts
@@ -3821,33 +3996,13 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 74.93) (xy 132.08 74.93)
+			(xy 139.7 74.93) (xy 137.16 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "42c3ff0e-3b76-4a94-a486-358641958c82")
-	)
-	(wire
-		(pts
-			(xy 142.24 30.48) (xy 148.59 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "455956dc-ee22-4709-8f7c-9afc84684891")
-	)
-	(wire
-		(pts
-			(xy 129.54 80.01) (xy 132.08 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49f793e4-3a82-40bd-b386-f1ecaa623812")
+		(uuid "64938c69-f699-4095-a7e6-7d04b78c2295")
 	)
 	(wire
 		(pts
@@ -3871,7 +4026,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 77.47) (xy 132.08 77.47)
+			(xy 137.16 77.47) (xy 148.59 77.47)
 		)
 		(stroke
 			(width 0)
@@ -3881,17 +4036,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 44.45) (xy 53.34 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70593d77-bf7c-4a54-b7b7-2675a93f45ed")
-	)
-	(wire
-		(pts
-			(xy 40.64 81.28) (xy 50.8 81.28)
+			(xy 38.1 81.28) (xy 50.8 81.28)
 		)
 		(stroke
 			(width 0)
@@ -3911,23 +4056,13 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 64.77) (xy 29.21 67.31)
+			(xy 38.1 64.77) (xy 38.1 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a24a49dd-d7c0-40d3-870c-e83ea8e6dca1")
-	)
-	(wire
-		(pts
-			(xy 132.08 69.85) (xy 129.54 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a728d18e-3ab5-4d46-b955-8676d766a442")
 	)
 	(wire
 		(pts
@@ -3971,23 +4106,23 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 81.28) (xy 29.21 81.28)
+			(xy 104.14 82.55) (xy 102.87 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dee15204-b341-4394-924b-1c7f0bd9ee6d")
+		(uuid "e9641b2e-0c1f-46ec-8a95-ecd4a0a99d07")
 	)
 	(wire
 		(pts
-			(xy 40.64 64.77) (xy 40.64 81.28)
+			(xy 102.87 82.55) (xy 102.87 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e4aaf0bd-5a17-43e6-b7d9-f1342a057acb")
+		(uuid "eb6cb986-ba6a-4c24-8b63-4f14e94965a3")
 	)
 	(wire
 		(pts
@@ -4011,7 +4146,17 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 80.01) (xy 29.21 81.28)
+			(xy 139.7 69.85) (xy 137.16 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f30cd60b-8a88-4359-afde-3b4eb4746f2b")
+	)
+	(wire
+		(pts
+			(xy 38.1 80.01) (xy 38.1 81.28)
 		)
 		(stroke
 			(width 0)
@@ -4041,7 +4186,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 72.39) (xy 132.08 72.39)
+			(xy 137.16 72.39) (xy 148.59 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4049,8 +4194,44 @@
 		)
 		(uuid "ffddd36e-00fe-4944-8689-a3ba45374f51")
 	)
+	(rectangle
+		(start 97.79 73.66)
+		(end 125.73 85.09)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5154acbe-515c-4ff1-8f3c-dc7ef4d08672)
+	)
+	(rectangle
+		(start 128.27 63.5)
+		(end 156.21 85.09)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a0df3d2d-466b-4c37-9f1e-39cda698052a)
+	)
+	(rectangle
+		(start 20.32 16.51)
+		(end 158.75 87.63)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e9169d7e-dd8e-4c98-bd84-84dd5c897f36)
+	)
 	(label "RelayOut"
-		(at 132.08 80.01 0)
+		(at 139.7 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4060,19 +4241,8 @@
 		)
 		(uuid "16cb83f2-6e95-4dc9-a661-995bc0666463")
 	)
-	(label "GND"
-		(at 39.37 25.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "374380a4-53eb-4160-a2f6-37a332cec130")
-	)
 	(label "GPIO"
-		(at 132.08 74.93 0)
+		(at 139.7 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4082,52 +4252,8 @@
 		)
 		(uuid "378539cd-c61b-4f77-998c-ef0bf13880c7")
 	)
-	(label "GND"
-		(at 29.21 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "464f97e7-82fb-4a8e-8731-3c556dfc020b")
-	)
-	(label "+5V"
-		(at 132.08 72.39 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "56b1049d-50ed-4996-91bb-f9d28cc6fab2")
-	)
-	(label "GND"
-		(at 107.95 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "571eab03-fbdf-4e76-9fd5-311e99ed6bde")
-	)
-	(label "GND"
-		(at 132.08 77.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "80ca8f42-fac3-4301-a5d3-bbd1a7027579")
-	)
 	(label "RelayIn"
-		(at 148.59 30.48 0)
+		(at 149.86 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4138,7 +4264,7 @@
 		(uuid "88ca41ca-99bc-41ce-9c50-bec2c54cfc50")
 	)
 	(label "RelayIn"
-		(at 132.08 69.85 0)
+		(at 139.7 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4159,19 +4285,8 @@
 		)
 		(uuid "a7fcf088-4383-4671-bf3d-6b3a27ab673a")
 	)
-	(label "+5V"
-		(at 73.66 25.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4bb9454-6612-4b53-9699-3521898d03fb")
-	)
 	(label "GPIO"
-		(at 29.21 44.45 0)
+		(at 38.1 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4218,7 +4333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds15002.pdf"
 			(at 107.95 40.64 0)
 			(effects
 				(font
@@ -4227,7 +4342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Diode 1000 V 1A Surface Mount SMA"
 			(at 107.95 40.64 0)
 			(effects
 				(font
@@ -4362,45 +4477,33 @@
 		)
 	)
 	(symbol
-		(lib_id "CRCW060310K0DHEAP:CRCW060310K0DHEAP")
-		(at 40.64 54.61 90)
+		(lib_id "power:GND")
+		(at 107.95 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0bd67178-4c33-4053-a823-887415fe9d51")
-		(property "Reference" "R4"
-			(at 44.45 53.3399 90)
+		(uuid "19c6cfeb-13c9-4ee5-bff4-912bca53fe5c")
+		(property "Reference" "#PWR03"
+			(at 107.95 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 44.45 55.8799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "CRCW060310K0DHEAP:RESC1508X50N"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 40.64 54.61 0)
+		(property "Value" "GND"
+			(at 107.95 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4408,8 +4511,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 40.64 54.61 0)
+		(property "Datasheet" ""
+			(at 107.95 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4417,96 +4520,22 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Vishay Dale"
-			(at 40.64 54.61 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 107.95 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 				(hide yes)
 			)
-		)
-		(property "Description_1" "\n                        \n                            10 kOhms ±0.5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film\n                        \n"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "1508 Vishay"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CRCW060310K0DHEAP/Vishay+Dale/view-part/?ref=snap"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "CRCW060310K0DHEAP"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/CRCW060310K0DHEAP/Vishay+Dale/view-part/?ref=eda"
-			(at 40.64 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9f0c4377-ef3d-435c-a079-ae38279f1aa5")
 		)
 		(pin "1"
-			(uuid "f3fb352b-e5e4-4561-b0a5-5e076dcdff9a")
+			(uuid "a6f31e0f-3315-4a9b-a282-81f0a313214a")
 		)
 		(instances
-			(project ""
+			(project "RelaySwitch"
 				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
-					(reference "R4")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -4530,7 +4559,7 @@
 				)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "1k"
 			(at 86.36 45.72 0)
 			(effects
 				(font
@@ -4538,7 +4567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AC0603JR-07100RL:RESC1608X55N"
+		(property "Footprint" "RG1608N-102-D-T5:RESC1608X50N"
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -4548,7 +4577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf"
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -4557,7 +4586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 1K OHM 0.5% 1/10W 0603"
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -4697,7 +4726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://rocelec.widen.net/view/pdf/yhg4flovvn/ONSM-S-A0003163276-1.pdf?t.download=true&u=5oefqw"
 			(at 63.5 46.99 0)
 			(effects
 				(font
@@ -4706,7 +4735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
 			(at 63.5 46.99 0)
 			(effects
 				(font
@@ -4827,8 +4856,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 39.37 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4266ab81-0bff-43fe-92c8-553462d80270")
+		(property "Reference" "#PWR01"
+			(at 39.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 39.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 39.37 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fefb0a3a-f802-4482-9e78-45b6ee075e09")
+		)
+		(instances
+			(project ""
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "HSMG-C170:HSMG-C170")
-		(at 29.21 74.93 270)
+		(at 38.1 74.93 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4836,7 +4930,7 @@
 		(dnp no)
 		(uuid "5a76cc13-8989-4886-a323-b9d56b83e69e")
 		(property "Reference" "LED2"
-			(at 21.844 72.39 90)
+			(at 30.734 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4845,7 +4939,7 @@
 			)
 		)
 		(property "Value" "HSMG-C170"
-			(at 14.732 74.422 90)
+			(at 23.622 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4854,7 +4948,7 @@
 			)
 		)
 		(property "Footprint" "HSMG-C170:LED_HSMS-C170"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4863,8 +4957,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 29.21 74.93 0)
+		(property "Datasheet" "https://docs.broadcom.com/doc/AV02-0551EN"
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4872,8 +4966,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 29.21 74.93 0)
+		(property "Description" "Green 572nm LED Indication - Discrete 2.2V 0805 (2012 Metric)"
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4882,7 +4976,7 @@
 			)
 		)
 		(property "MF" "Broadcom Limited"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4892,7 +4986,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.8mm"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +4996,7 @@
 			)
 		)
 		(property "Package" "0805 Broadcom Limited"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4912,7 +5006,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4922,7 +5016,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=eda"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +5026,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4942,7 +5036,7 @@
 			)
 		)
 		(property "PARTREV" "March 25, 2022"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +5046,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=snap"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4962,7 +5056,7 @@
 			)
 		)
 		(property "MP" "HSMG-C170"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4972,7 +5066,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            Green 572nm LED Indication - Discrete 2.2V 0805 (2012 Metric)\n                        \n"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,7 +5076,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Broadcom"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +5086,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +5096,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "HSMG-C170"
-			(at 29.21 74.93 0)
+			(at 38.1 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5027,6 +5121,136 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 38.1 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "663104ad-bf05-4f2e-9008-4f58e837ca69")
+		(property "Reference" "#PWR02"
+			(at 38.1 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99534cf5-6ff5-4dcf-b3f1-c0ebda93673a")
+		)
+		(instances
+			(project "RelaySwitch"
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 73.66 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78156f66-fe61-4809-899e-18e3f2796dcc")
+		(property "Reference" "#PWR06"
+			(at 73.66 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 73.66 21.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6dc2f3b8-fceb-4092-b83a-bd49e040e4da")
+		)
+		(instances
+			(project ""
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RC0603FR-07330RL:RC0603FR-07330RL")
 		(at 62.23 25.4 0)
 		(unit 1)
@@ -5044,7 +5268,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "140"
 			(at 62.23 21.59 0)
 			(effects
 				(font
@@ -5062,7 +5286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 62.23 25.4 0)
 			(effects
 				(font
@@ -5071,7 +5295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "140 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 			(at 62.23 25.4 0)
 			(effects
 				(font
@@ -5176,17 +5400,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 102.87 78.74 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88080d20-a740-41ad-9577-bfd693baf353")
+		(property "Reference" "H1"
+			(at 105.41 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 105.41 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.7mm_Pad"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "51fbc413-d3f9-40fd-b92c-600a3e72b90d")
+		)
+		(instances
+			(project ""
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRCW0402140RFKEDC:CRCW0402140RFKEDC")
-		(at 29.21 54.61 90)
+		(at 38.1 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8a83d581-0a1a-47d2-9978-4c28b2d5eb0d")
-		(property "Reference" "R5"
-			(at 33.02 53.3399 90)
+		(property "Reference" "R4"
+			(at 41.402 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5194,8 +5484,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "140R"
-			(at 33.02 55.8799 90)
+		(property "Value" "68R"
+			(at 41.148 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5204,7 +5494,7 @@
 			)
 		)
 		(property "Footprint" "CRCW0402140RFKEDC:RESC1005X35N"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5213,8 +5503,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 29.21 54.61 0)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5222,8 +5512,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 29.21 54.61 0)
+		(property "Description" "68 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5232,7 +5522,7 @@
 			)
 		)
 		(property "MF" "Vishay"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5242,7 +5532,7 @@
 			)
 		)
 		(property "Description_1" "\n                        \n                            140 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric)  Thick Film\n                        \n"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5252,7 +5542,7 @@
 			)
 		)
 		(property "Package" "1005 Yageo"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5262,7 +5552,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5272,7 +5562,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=snap"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,7 +5572,7 @@
 			)
 		)
 		(property "MP" "CRCW0402140RFKEDC"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5292,7 +5582,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5302,7 +5592,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=eda"
-			(at 29.21 54.61 0)
+			(at 38.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5320,7 +5610,72 @@
 		(instances
 			(project ""
 				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
-					(reference "R5")
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 142.24 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b89fec0c-70e5-4a3e-90a5-b1842316d0d9")
+		(property "Reference" "#PWR04"
+			(at 142.24 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.24 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 142.24 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82f4c039-f43f-46ab-a22b-5f6cbcb7a39f")
+		)
+		(instances
+			(project "RelaySwitch"
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -5362,7 +5717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.te.com/en/product-1-1721150-0.datasheet.pdf"
 			(at 132.08 35.56 0)
 			(effects
 				(font
@@ -5371,7 +5726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "General Purpose Power Relay, DC, Monostable, 1 Form C SPDT-CO, 15 A Contact Rating, 5 VDC Coil Voltage, SCHRACK Miniature PCB Relay ORWH"
 			(at 132.08 35.56 0)
 			(effects
 				(font
@@ -5545,6 +5900,203 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 148.59 77.47 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c79563eb-0824-4365-854d-1acd3c6d9bed")
+		(property "Reference" "#PWR05"
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b6caa41d-bb50-4197-be6d-caab6a3e0cae")
+		)
+		(instances
+			(project "RelaySwitch"
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 148.59 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "caf84fcd-f35a-4bd0-b8fb-42beca4b0168")
+		(property "Reference" "#PWR07"
+			(at 144.78 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 152.146 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 148.59 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe36d42f-689e-48c6-9793-e8f7e20ff7c8")
+		)
+		(instances
+			(project "RelaySwitch"
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 104.14 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd5d3991-48ca-4978-aa0c-57e9ad340bd9")
+		(property "Reference" "#PWR08"
+			(at 110.49 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 107.95 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 104.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ccf1637-172d-4ea3-88bf-8b0824934eb6")
+		)
+		(instances
+			(project ""
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 48.26 25.4 0)
 		(unit 1)
@@ -5578,7 +6130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12v1wt86-e.pdf"
 			(at 48.26 25.4 0)
 			(effects
 				(font
@@ -5587,7 +6139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Red 630nm LED Indication - Discrete 2.2V 0603 (1608 Metric)"
 			(at 48.26 25.4 0)
 			(effects
 				(font
@@ -5613,7 +6165,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
-		(at 124.46 74.93 0)
+		(at 132.08 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5621,15 +6173,15 @@
 		(dnp no)
 		(uuid "dff01f3f-91e7-4f01-ba39-6c102a02974a")
 		(property "Reference" "J1"
-			(at 125.222 67.056 0)
+			(at 132.842 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
-			(at 125.095 67.31 0)
+		(property "Value" "350-10-105-00-001101"
+			(at 132.715 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5638,7 +6190,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
-			(at 124.46 74.93 0)
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5646,8 +6198,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 124.46 74.93 0)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6642/350_Datasheet.pdf"
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5655,8 +6207,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 124.46 74.93 0)
+		(property "Description" "Connector Header Through Hole 5 position 0.100\" (2.54mm)"
+			(at 132.08 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,6 +6235,74 @@
 			(project ""
 				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse")
+		(at 146.05 30.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e854bf6e-4f32-49f6-92f0-5dd433f27e18")
+		(property "Reference" "F1"
+			(at 146.05 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse"
+			(at 146.05 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+			(at 146.05 32.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/AFA0000/AFA0000C7.pdf"
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2704a7f5-d702-43cc-aec5-4c9f8741bcc7")
+		)
+		(pin "1"
+			(uuid "f8df6860-0527-4421-9ee6-ae31bdbb0bca")
+		)
+		(instances
+			(project ""
+				(path "/0d69dd84-8c0d-4050-82f1-13407578f499"
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -5726,7 +6346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_11.pdf"
 			(at 50.8 59.69 0)
 			(effects
 				(font
@@ -5735,7 +6355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film"
 			(at 50.8 59.69 0)
 			(effects
 				(font
@@ -5876,7 +6496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/FMMT634Q.pdf"
 			(at 168.91 49.53 0)
 			(effects
 				(font
@@ -5885,7 +6505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Bipolar transistor symbol for simulation only, substrate tied to the emitter"
+		(property "Description" "Bipolar (BJT) Transistor NPN - Darlington 100 V 900 mA 140MHz 806 mW Surface Mount SOT-23-3"
 			(at 105.41 49.53 0)
 			(effects
 				(font
